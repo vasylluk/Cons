@@ -1,0 +1,7 @@
+c:\users\vasyl\source\repos\Cons\Cons\bin\Debug\Cons.exe.config
+c:\users\vasyl\source\repos\Cons\Cons\bin\Debug\Cons.exe
+c:\users\vasyl\source\repos\Cons\Cons\bin\Debug\Cons.pdb
+c:\users\vasyl\source\repos\Cons\Cons\obj\Debug\Cons.csprojResolveAssemblyReference.cache
+c:\users\vasyl\source\repos\Cons\Cons\obj\Debug\Cons.csproj.CoreCompileInputs.cache
+c:\users\vasyl\source\repos\Cons\Cons\obj\Debug\Cons.exe
+c:\users\vasyl\source\repos\Cons\Cons\obj\Debug\Cons.pdb
